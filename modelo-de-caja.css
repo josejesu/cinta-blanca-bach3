@@ -1,0 +1,22 @@
+div {
+    background-color: white;
+    width: 100px; 
+    height: 80px;
+    display: inline-block;
+    margin: 20px;
+}
+div:hover {
+    background-color: blue;
+    width: 500px; 
+    height: 300px;
+    display: inline-block;
+    margin: 10px;
+    transition: all 1s ease-in;
+}
+h1 {
+    color: white;
+}
+body {
+    background-color: gray; 
+    width: 100%; 
+}
